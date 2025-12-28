@@ -1,0 +1,69 @@
+# BE:FIRST – Be Free
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Tell me baby どんな君も
+ひとつ残らずに教えてよ
+Better days どんな毎日も
+一秒だって見逃したくないよ
+繰り返してる
+終わらないルーティン
+変わり映えしてたい
+君とならハミ出したいな
+Ya ready? この手を取って
+Let your fears go
+哀しみには愛を
+So let yourself go
+胸の夢中 燃やしたら
+Stay wild and
+Be free! 新しい朝陽が昇るような笑顔
+僕に見せてよ So I want you to be
+Be free! 今すぐに自由に夢を見ようよ
+If you can dream it, you can do it
+すべて思いのままさ
+I know まだ物足りないんだろう?
+Stop and go どこまでも付き合いましょう
+(Wa!) 雲の上でChill
+(Oh!) 誰が邪魔できる?
+他の誰かじゃない君と今も夢を見る
+Let's go baby 忘れないで
+僕らやがて飛び立つ Brand new day
+It's okay 思い出して
+この手 離さない いつも隣で
+踏み出したら
+止めないで Movin'
+振り向かないし
+君とならムチャしたいな
+Ya ready? 扉 ひらいて
+Let your soul glow
+ためらいには勇気を
+So let yourself go
+今すぐ未来 抱き寄せよう
+Stay strong and
+Be free! 新しい朝陽が昇るような笑顔
+僕に見せてよ So I want you to be
+Be free! 今すぐに自由に夢を見ようよ
+If you can dream it, you can do it
+すべて思いのままさ
+I wanna be (what?)
+You wanna be (what?)
+We already got the wing
+Come with me (Ah yeah!)
+I wanna be (what?)
+You wanna be (what?)
+Now we're gonna fly
+Come with me
+もっと行こうぜ スピードアップ
+宙を舞う涙
+追い越して笑おうぜ 憂鬱な明日
+ダイヤモンド、ミリオンダラー
+とか何もなくたってスーパーマン
+大人から見たらピーターパン?
+(OK!) なら連れてくネバーランド
+Be free! 新しい朝陽が昇るような笑顔
+僕に見せてよ So I want you to be
+Be free! 今すぐに自由に夢を見ようよ
+If you can dream it, you can do it
+すべて思いのままさ
+```
