@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Be Free",
+  "base_artist": "BE:FIRST",
+  "createdAt": "2025-12-28T17:44:56.914919Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Wish I Knew How It Would Feel To Be Free",
+      "artist": "John Legend feat. The Roots",
+      "has_synced": true,
+      "path": "select/01_I_Wish_I_Knew_How_It_Would_Feel_To_Be_Free_John_Legend_feat._The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Wish I Knew How It Would Feel To Be Free",
+      "artist": "John Legend & The Roots",
+      "has_synced": true,
+      "path": "select/02_I_Wish_I_Knew_How_It_Would_Feel_To_Be_Free_John_Legend_&_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "To Be Free (múm remix)",
+      "artist": "Emilíana Torrini",
+      "has_synced": false,
+      "path": "select/03_To_Be_Free_(múm_remix)_Emilíana_Torrini.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "(It's Good) To Be Free",
+      "artist": "Oasis",
+      "has_synced": false,
+      "path": "select/04_(It's_Good)_To_Be_Free_Oasis.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "(It's Good) To Be Free",
+      "artist": "Oasis",
+      "has_synced": false,
+      "path": "select/05_(It's_Good)_To_Be_Free_Oasis.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Let Me Be Free",
+      "artist": "Wilkinson feat. Detour City",
+      "has_synced": true,
+      "path": "select/06_Let_Me_Be_Free_Wilkinson_feat._Detour_City.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Be Free With Your Love",
+      "artist": "Spandau Ballet",
+      "has_synced": true,
+      "path": "select/07_Be_Free_With_Your_Love_Spandau_Ballet.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Live Your Life Be Free",
+      "artist": "Belinda Carlisle",
+      "has_synced": false,
+      "path": "select/08_Live_Your_Life_Be_Free_Belinda_Carlisle.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Live Your Life Be Free - Club Mix",
+      "artist": "Belinda Carlisle",
+      "has_synced": false,
+      "path": "select/09_Live_Your_Life_Be_Free_-_Club_Mix_Belinda_Carlisle.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Live Your Life Be Free (Club Mix)",
+      "artist": "Belinda Carlisle",
+      "has_synced": false,
+      "path": "select/10_Live_Your_Life_Be_Free_(Club_Mix)_Belinda_Carlisle.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Live Your Life Be Free (Radio Edit)",
+      "artist": "Belinda Carlisle",
+      "has_synced": true,
+      "path": "select/11_Live_Your_Life_Be_Free_(Radio_Edit)_Belinda_Carlisle.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Live Your Life Be Free (Single Edit)",
+      "artist": "Belinda Carlisle",
+      "has_synced": true,
+      "path": "select/12_Live_Your_Life_Be_Free_(Single_Edit)_Belinda_Carlisle.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "To Be Free",
+      "artist": "Simply Red feat. Gota Yashiki",
+      "has_synced": true,
+      "path": "select/13_To_Be_Free_Simply_Red_feat._Gota_Yashiki.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "To Be Free",
+      "artist": "Simply Red",
+      "has_synced": true,
+      "path": "select/14_To_Be_Free_Simply_Red.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Need to Be Free",
+      "artist": "Imagination",
+      "has_synced": false,
+      "path": "select/15_The_Need_to_Be_Free_Imagination.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Let Me Be Free",
+      "artist": "2 Brothers On the 4th Floor",
+      "has_synced": true,
+      "path": "select/16_Let_Me_Be_Free_2_Brothers_On_the_4th_Floor.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I Shall Be Free",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/17_I_Shall_Be_Free_Bob_Dylan.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I Shall Be Free No. 10",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/18_I_Shall_Be_Free_No._10_Bob_Dylan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Be Free",
+      "artist": "BE:FIRST",
+      "has_synced": false,
+      "path": "select/pl_01_Be_Free_BE_FIRST.txt"
+    }
+  ]
+}
